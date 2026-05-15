@@ -1,0 +1,1146 @@
+[
+  {
+    "levelNumber": 1,
+    "id": "L001",
+    "tier": "intern",
+    "startWord": "cat",
+    "targetWord": "dog",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "cat",
+      "cot",
+      "cog",
+      "dog"
+    ],
+    "designerNotes": "The classic opener — 3 clean swaps through common 3-letter words"
+  },
+  {
+    "levelNumber": 2,
+    "id": "L002",
+    "tier": "intern",
+    "startWord": "hot",
+    "targetWord": "wet",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "hot",
+      "got",
+      "get",
+      "wet"
+    ],
+    "designerNotes": "Temperature to texture — teaches vowel-swap pattern"
+  },
+  {
+    "levelNumber": 3,
+    "id": "L003",
+    "tier": "intern",
+    "startWord": "ran",
+    "targetWord": "win",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "ran",
+      "pan",
+      "pin",
+      "win"
+    ],
+    "designerNotes": "Action words — 3 swaps, no tricks"
+  },
+  {
+    "levelNumber": 4,
+    "id": "L004",
+    "tier": "intern",
+    "startWord": "bad",
+    "targetWord": "big",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 2,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "bad",
+      "bid",
+      "big"
+    ],
+    "designerNotes": "Two swaps — bad→bid→big. Shortest tier-1 chain"
+  },
+  {
+    "levelNumber": 5,
+    "id": "L005",
+    "tier": "intern",
+    "startWord": "dim",
+    "targetWord": "dam",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 1,
+    "difficulty": "tutorial",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "dim",
+      "dam"
+    ],
+    "designerNotes": "Single swap tutorial bridge — vowel only changes"
+  },
+  {
+    "levelNumber": 6,
+    "id": "L006",
+    "tier": "intern",
+    "startWord": "hit",
+    "targetWord": "hog",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 2,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "hit",
+      "hot",
+      "hog"
+    ],
+    "designerNotes": "2 swaps, ends on an animal word"
+  },
+  {
+    "levelNumber": 7,
+    "id": "L007",
+    "tier": "intern",
+    "startWord": "fat",
+    "targetWord": "fig",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 2,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "fat",
+      "fit",
+      "fig"
+    ],
+    "designerNotes": "fat→fit→fig — 2 swaps, food endpoint"
+  },
+  {
+    "levelNumber": 8,
+    "id": "L008",
+    "tier": "intern",
+    "startWord": "tan",
+    "targetWord": "tin",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 1,
+    "difficulty": "tutorial",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "tan",
+      "tin"
+    ],
+    "designerNotes": "Single vowel swap — simplest possible"
+  },
+  {
+    "levelNumber": 9,
+    "id": "L009",
+    "tier": "intern",
+    "startWord": "log",
+    "targetWord": "lag",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 1,
+    "difficulty": "tutorial",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "log",
+      "lag"
+    ],
+    "designerNotes": "Near-twin 1-swap"
+  },
+  {
+    "levelNumber": 10,
+    "id": "L010",
+    "tier": "intern",
+    "startWord": "car",
+    "targetWord": "far",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 1,
+    "difficulty": "tutorial",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "car",
+      "far"
+    ],
+    "designerNotes": "Tutorial bridge — 1 swap, familiarises with UI"
+  },
+  {
+    "levelNumber": 11,
+    "id": "L011",
+    "tier": "resident",
+    "startWord": "cat",
+    "targetWord": "jay",
+    "theme": "animals",
+    "themeMode": "strict",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "cat",
+      "rat",
+      "ray",
+      "jay"
+    ],
+    "designerNotes": "First themed puzzle — all 4 words are animals. Swap-only."
+  },
+  {
+    "levelNumber": 12,
+    "id": "L012",
+    "tier": "resident",
+    "startWord": "bat",
+    "targetWord": "ram",
+    "theme": "animals",
+    "themeMode": "strict",
+    "par": 2,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "bat",
+      "rat",
+      "ram"
+    ],
+    "designerNotes": "bat→rat→ram — tight 2-hop animal chain"
+  },
+  {
+    "levelNumber": 13,
+    "id": "L013",
+    "tier": "resident",
+    "startWord": "doe",
+    "targetWord": "hog",
+    "theme": "animals",
+    "themeMode": "strict",
+    "par": 2,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "doe",
+      "dog",
+      "hog"
+    ],
+    "designerNotes": "doe→dog→hog — 2 swaps, all animals, teaches theme constraint"
+  },
+  {
+    "levelNumber": 14,
+    "id": "L014",
+    "tier": "resident",
+    "startWord": "hog",
+    "targetWord": "roc",
+    "theme": "animals",
+    "themeMode": "strict",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "hog",
+      "dog",
+      "doe",
+      "roe",
+      "roc"
+    ],
+    "designerNotes": "4-hop chain — introduces longer animal sequences"
+  },
+  {
+    "levelNumber": 15,
+    "id": "L015",
+    "tier": "resident",
+    "startWord": "bat",
+    "targetWord": "jay",
+    "theme": "animals",
+    "themeMode": "strict",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "bat",
+      "rat",
+      "ray",
+      "jay"
+    ],
+    "designerNotes": "Mirror of L11 with different start — reinforces pattern"
+  },
+  {
+    "levelNumber": 16,
+    "id": "L016",
+    "tier": "resident",
+    "startWord": "dove",
+    "targetWord": "hog",
+    "theme": "animals",
+    "themeMode": "strict",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "dove",
+      "doe",
+      "dog",
+      "hog"
+    ],
+    "designerNotes": "First Remove op — DOVE loses the V to become DOE"
+  },
+  {
+    "levelNumber": 17,
+    "id": "L017",
+    "tier": "resident",
+    "startWord": "dove",
+    "targetWord": "roc",
+    "theme": "animals",
+    "themeMode": "strict",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "dove",
+      "doe",
+      "roe",
+      "roc"
+    ],
+    "designerNotes": "Remove then 2 swaps — reinforces Remove op in themed context"
+  },
+  {
+    "levelNumber": 18,
+    "id": "L018",
+    "tier": "resident",
+    "startWord": "hawk",
+    "targetWord": "lark",
+    "theme": "animals",
+    "themeMode": "endpointsOnly",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "hawk",
+      "hack",
+      "lack",
+      "lark"
+    ],
+    "designerNotes": "Animal endpoints, free routing — bridge to next tier"
+  },
+  {
+    "levelNumber": 19,
+    "id": "L019",
+    "tier": "resident",
+    "startWord": "hawk",
+    "targetWord": "buck",
+    "theme": "animals",
+    "themeMode": "endpointsOnly",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "hawk",
+      "hack",
+      "back",
+      "buck"
+    ],
+    "designerNotes": "Same start as L18, different animal target"
+  },
+  {
+    "levelNumber": 20,
+    "id": "L020",
+    "tier": "resident",
+    "startWord": "boar",
+    "targetWord": "gnat",
+    "theme": "animals",
+    "themeMode": "endpointsOnly",
+    "par": 3,
+    "difficulty": "easy",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "boar",
+      "boat",
+      "goat",
+      "gnat"
+    ],
+    "designerNotes": "4-letter animals — introduces GOAT as pivot word"
+  },
+  {
+    "levelNumber": 21,
+    "id": "L021",
+    "tier": "attending",
+    "startWord": "tart",
+    "targetWord": "corn",
+    "theme": "food",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "tart",
+      "cart",
+      "card",
+      "cord",
+      "corn"
+    ],
+    "designerNotes": "4-swap food chain — tart and corn as endpoints"
+  },
+  {
+    "levelNumber": 22,
+    "id": "L022",
+    "tier": "attending",
+    "startWord": "tart",
+    "targetWord": "tea",
+    "theme": "food",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "tart",
+      "tar",
+      "tan",
+      "ten",
+      "tea"
+    ],
+    "designerNotes": "Remove then 3 swaps — food endpoints, free routing"
+  },
+  {
+    "levelNumber": 23,
+    "id": "L023",
+    "tier": "attending",
+    "startWord": "tart",
+    "targetWord": "lime",
+    "theme": "food",
+    "themeMode": "endpointsOnly",
+    "par": 5,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "tart",
+      "dart",
+      "dare",
+      "dame",
+      "lame",
+      "lime"
+    ],
+    "designerNotes": "5-step all-swap chain — food start & end"
+  },
+  {
+    "levelNumber": 24,
+    "id": "L024",
+    "tier": "attending",
+    "startWord": "tart",
+    "targetWord": "kale",
+    "theme": "food",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "tart",
+      "dart",
+      "dare",
+      "dale",
+      "kale"
+    ],
+    "designerNotes": "4 swaps — two food words as bookends"
+  },
+  {
+    "levelNumber": 25,
+    "id": "L025",
+    "tier": "attending",
+    "startWord": "tart",
+    "targetWord": "bun",
+    "theme": "food",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "tart",
+      "tar",
+      "bar",
+      "ban",
+      "bun"
+    ],
+    "designerNotes": "Remove then 3 swaps — 5-letter to 3-letter food"
+  },
+  {
+    "levelNumber": 26,
+    "id": "L026",
+    "tier": "attending",
+    "startWord": "waist",
+    "targetWord": "hip",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "waist",
+      "wait",
+      "wit",
+      "hit",
+      "hip"
+    ],
+    "designerNotes": "Body endpoints — 4 moves using remove"
+  },
+  {
+    "levelNumber": 27,
+    "id": "L027",
+    "tier": "attending",
+    "startWord": "waist",
+    "targetWord": "ear",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "waist",
+      "wait",
+      "wart",
+      "war",
+      "ear"
+    ],
+    "designerNotes": "waist→wait→wart→war→ear — 4 moves"
+  },
+  {
+    "levelNumber": 28,
+    "id": "L028",
+    "tier": "attending",
+    "startWord": "waist",
+    "targetWord": "arm",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "waist",
+      "wait",
+      "wart",
+      "warm",
+      "arm"
+    ],
+    "designerNotes": "waist→…→warm→arm — remove at end"
+  },
+  {
+    "levelNumber": 29,
+    "id": "L029",
+    "tier": "attending",
+    "startWord": "waist",
+    "targetWord": "hair",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "waist",
+      "wait",
+      "wail",
+      "hail",
+      "hair"
+    ],
+    "designerNotes": "4-step body chain — hail as pivot"
+  },
+  {
+    "levelNumber": 30,
+    "id": "L030",
+    "tier": "attending",
+    "startWord": "waist",
+    "targetWord": "bone",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 5,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "waist",
+      "wait",
+      "want",
+      "wane",
+      "bane",
+      "bone"
+    ],
+    "designerNotes": "5-step body chain — bane bridges the gap"
+  },
+  {
+    "levelNumber": 31,
+    "id": "L031",
+    "tier": "attending",
+    "startWord": "groin",
+    "targetWord": "rib",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "groin",
+      "grin",
+      "grip",
+      "rip",
+      "rib"
+    ],
+    "designerNotes": "groin loses O to make grin — 4 remove+swap moves"
+  },
+  {
+    "levelNumber": 32,
+    "id": "L032",
+    "tier": "attending",
+    "startWord": "groin",
+    "targetWord": "jaw",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 5,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "groin",
+      "grain",
+      "rain",
+      "ran",
+      "raw",
+      "jaw"
+    ],
+    "designerNotes": "5 steps — grain as pivot, all ops needed"
+  },
+  {
+    "levelNumber": 33,
+    "id": "L033",
+    "tier": "attending",
+    "startWord": "waist",
+    "targetWord": "brain",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 5,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "waist",
+      "wait",
+      "wail",
+      "rail",
+      "rain",
+      "brain"
+    ],
+    "designerNotes": "5-step — all three ops used. rain gets B added"
+  },
+  {
+    "levelNumber": 34,
+    "id": "L034",
+    "tier": "attending",
+    "startWord": "waist",
+    "targetWord": "skin",
+    "theme": "body",
+    "themeMode": "endpointsOnly",
+    "par": 5,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "waist",
+      "wait",
+      "wit",
+      "win",
+      "kin",
+      "skin"
+    ],
+    "designerNotes": "5-step — kin gets S added to reach skin"
+  },
+  {
+    "levelNumber": 35,
+    "id": "L035",
+    "tier": "attending",
+    "startWord": "boar",
+    "targetWord": "stork",
+    "theme": "animals",
+    "themeMode": "endpointsOnly",
+    "par": 4,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "add",
+      "swap"
+    ],
+    "hintChain": [
+      "boar",
+      "soar",
+      "star",
+      "stark",
+      "stork"
+    ],
+    "designerNotes": "4-step — star grows to stark, then stork"
+  },
+  {
+    "levelNumber": 36,
+    "id": "L036",
+    "tier": "chief",
+    "startWord": "hawk",
+    "targetWord": "wasp",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "hawk",
+      "hack",
+      "back",
+      "bask",
+      "bash",
+      "wash",
+      "wasp"
+    ],
+    "designerNotes": "6-step pure swap marathon — hawk to wasp"
+  },
+  {
+    "levelNumber": 37,
+    "id": "L037",
+    "tier": "chief",
+    "startWord": "swan",
+    "targetWord": "wasp",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 5,
+    "difficulty": "medium",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "swan",
+      "swap",
+      "sap",
+      "rap",
+      "rasp",
+      "wasp"
+    ],
+    "designerNotes": "5-step using all ops — elegant short route"
+  },
+  {
+    "levelNumber": 38,
+    "id": "L038",
+    "tier": "chief",
+    "startWord": "spear",
+    "targetWord": "swipe",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "spear",
+      "spar",
+      "span",
+      "spin",
+      "spine",
+      "swine",
+      "swipe"
+    ],
+    "designerNotes": "6-step — spine and swine are delightful pivot words"
+  },
+  {
+    "levelNumber": 39,
+    "id": "L039",
+    "tier": "chief",
+    "startWord": "spear",
+    "targetWord": "sulk",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "spear",
+      "spar",
+      "spark",
+      "spank",
+      "sank",
+      "sunk",
+      "sulk"
+    ],
+    "designerNotes": "6-step — spark→spank is the satisfying add move"
+  },
+  {
+    "levelNumber": 40,
+    "id": "L040",
+    "tier": "chief",
+    "startWord": "spear",
+    "targetWord": "whim",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 7,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "spear",
+      "spar",
+      "par",
+      "pat",
+      "pit",
+      "hit",
+      "him",
+      "whim"
+    ],
+    "designerNotes": "7-step — long journey from spear to whim"
+  },
+  {
+    "levelNumber": 41,
+    "id": "L041",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "trust",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "bury",
+      "buy",
+      "bus",
+      "bust",
+      "rust",
+      "trust"
+    ],
+    "designerNotes": "6-step — bury loses R early, trust added at end"
+  },
+  {
+    "levelNumber": 42,
+    "id": "L042",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "hulk",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "burn",
+      "bun",
+      "sun",
+      "sunk",
+      "sulk",
+      "hulk"
+    ],
+    "designerNotes": "6-step — sulk bridges to hulk"
+  },
+  {
+    "levelNumber": 43,
+    "id": "L043",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "acid",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "bury",
+      "buy",
+      "bud",
+      "bid",
+      "aid",
+      "acid"
+    ],
+    "designerNotes": "6-step — aid gets C added for the finale"
+  },
+  {
+    "levelNumber": 44,
+    "id": "L044",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "mule",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "burn",
+      "born",
+      "bore",
+      "more",
+      "mole",
+      "mule"
+    ],
+    "designerNotes": "6-step pure swap — more→mole is the key insight"
+  },
+  {
+    "levelNumber": 45,
+    "id": "L045",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "luck",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "burn",
+      "barn",
+      "bark",
+      "lark",
+      "lurk",
+      "luck"
+    ],
+    "designerNotes": "6-step — barn→bark→lark→lurk is a great sub-chain"
+  },
+  {
+    "levelNumber": 46,
+    "id": "L046",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "swear",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "burn",
+      "barn",
+      "bar",
+      "bear",
+      "wear",
+      "swear"
+    ],
+    "designerNotes": "6-step — bear→wear→swear uses add twice"
+  },
+  {
+    "levelNumber": 47,
+    "id": "L047",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "neat",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "bury",
+      "buy",
+      "bay",
+      "bat",
+      "beat",
+      "neat"
+    ],
+    "designerNotes": "6-step — buy→bay pivots to beat→neat"
+  },
+  {
+    "levelNumber": 48,
+    "id": "L048",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "grape",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 7,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "bump",
+      "pump",
+      "pup",
+      "pap",
+      "gap",
+      "gape",
+      "grape"
+    ],
+    "designerNotes": "7-step — pup→pap→gap is the tricky middle section"
+  },
+  {
+    "levelNumber": 49,
+    "id": "L049",
+    "tier": "chief",
+    "startWord": "burp",
+    "targetWord": "story",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 6,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "swap"
+    ],
+    "hintChain": [
+      "burp",
+      "burn",
+      "born",
+      "torn",
+      "tore",
+      "store",
+      "story"
+    ],
+    "designerNotes": "6-step — born→torn is the satisfying pivot"
+  },
+  {
+    "levelNumber": 50,
+    "id": "L050",
+    "tier": "chief",
+    "startWord": "spear",
+    "targetWord": "thorn",
+    "theme": "free",
+    "themeMode": "strict",
+    "par": 7,
+    "difficulty": "hard",
+    "allowedOperations": [
+      "add",
+      "remove",
+      "swap"
+    ],
+    "hintChain": [
+      "spear",
+      "spar",
+      "par",
+      "bar",
+      "barn",
+      "born",
+      "horn",
+      "thorn"
+    ],
+    "designerNotes": "7-step grand finale — barn→born→horn→thorn"
+  }
+]

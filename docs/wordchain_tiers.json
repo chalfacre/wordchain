@@ -1,0 +1,63 @@
+{
+  "tiers": [
+    {
+      "tier": "intern",
+      "levels": "1–10",
+      "theme": "Free Play",
+      "parRange": "1–3",
+      "avgPar": null,
+      "operationsAllowed": "Swap only",
+      "purpose": "Tutorial — teach the swap mechanic with no theme constraint"
+    },
+    {
+      "tier": "resident",
+      "levels": "11–20",
+      "theme": "Animals",
+      "parRange": "2–4",
+      "avgPar": null,
+      "operationsAllowed": "Swap + Remove",
+      "purpose": "Introduce theme constraint using familiar animal words"
+    },
+    {
+      "tier": "attending",
+      "levels": "21–35",
+      "theme": "Food / Body*",
+      "parRange": "4–5",
+      "avgPar": null,
+      "operationsAllowed": "Swap + Add/Remove",
+      "purpose": "All ops active; food & body words as start/end anchors"
+    },
+    {
+      "tier": "chief",
+      "levels": "36–50",
+      "theme": "Free",
+      "parRange": "5–7",
+      "avgPar": null,
+      "operationsAllowed": "All ops",
+      "purpose": "Maximum complexity — 6-8 step chains, all operations required"
+    }
+  ],
+  "operationsReference": [
+    {
+      "operation": "swap",
+      "rule": "Replace exactly 1 letter (word length unchanged)",
+      "example": "CAT → COT",
+      "availableFrom": "All tiers",
+      "notes": "Always available"
+    },
+    {
+      "operation": "add",
+      "rule": "Insert 1 letter anywhere (word grows by 1)",
+      "example": "CAT → CART",
+      "availableFrom": "Resident tier+",
+      "notes": "Introduced at L16+"
+    },
+    {
+      "operation": "remove",
+      "rule": "Delete 1 letter anywhere (word shrinks by 1)",
+      "example": "CART → CAT",
+      "availableFrom": "Resident tier+",
+      "notes": "Introduced at L16+"
+    }
+  ]
+}
